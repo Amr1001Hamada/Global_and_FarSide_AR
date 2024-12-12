@@ -1,6 +1,4 @@
-
-
-
+%%
 clear all
 load ('map_304.mat');
 
